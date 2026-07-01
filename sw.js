@@ -3,7 +3,8 @@ const FILES = [
   '.',
   'index.html',
   'manifest.json',
-  'icon.svg'
+  'icon-192.png',
+  'icon-512.png'
 ];
 
 // Install: cache all files for offline play
